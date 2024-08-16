@@ -1,5 +1,3 @@
-👋👀🌱💞️📫 😄 ⚡✨
-
 ## Hi, I'm Duy Anh! 👋👋👋
 [![Linkedin: ndanh318](https://img.shields.io/badge/-ndanh318-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ndanh318/)](https://www.linkedin.com/in/ndanh318/)
 [![Github: ndanh318](https://img.shields.io/badge/-ndanh318-black?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ndanh318/)](https://github.com/ndanh318/)
@@ -70,3 +68,8 @@ class Duyanh:
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ndanh318&repo=Virtual-Mouse&theme=cobalt" />
 </a>
+
+### 📫 How to reach me: 
+[![Linkedin: ndanh318](https://img.shields.io/badge/-ndanh318-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ndanh318/)](https://www.linkedin.com/in/ndanh318/)
+[![Github: ndanh318](https://img.shields.io/badge/-ndanh318-black?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ndanh318/)](https://github.com/ndanh318/)
+

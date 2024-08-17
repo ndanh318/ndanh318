@@ -4,7 +4,7 @@
 
 Over the past 2 years, I've driven myself in Machine Learning and Artificial Intelligence, focusing on Python (PyTorch, Pandas, Scikit-learn, etc.). I enjoy the entire programming process, and I'm particularly passionate in AI programming and have a lot of Python experience. Furthermore, I'm excited to work with others on initiatives that progress AI and ML and to offer creative solutions.<br>
 
-### 👀 A litter about me...
+### 👀 A little about me...
 ```python
 class Duyanh:
     def __init__(self):

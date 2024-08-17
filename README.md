@@ -34,8 +34,8 @@ class Duyanh:
         print("Machine Learning Skills:", ", ".join(self.machineLearning))
 
     def display_achievements(self):
-        for key, value in self.achievements.items():
-            print(f"{key.replace('_', ' ').title()}: {value}")
+        for project, achievement in self.achievements.items():
+            print(f"{project.replace('_', ' ').title()}: {achievement}")
 ```
 
 ### 🌱 Personal Projects 

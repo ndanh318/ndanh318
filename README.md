@@ -13,8 +13,7 @@ class Duyanh:
             "Time Management", 
             "Teamwork", 
             "Problem-solving", 
-            "Documentation", 
-            "Engaging Presentation"
+            "Documentation"
         ]
         self.machineLearning = [
             "Preprocessing data", 
